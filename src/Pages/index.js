@@ -32,7 +32,7 @@ const Home = () => {
             <Info {...homeObjThree} />
             {/* <Menu /> */}
             <Footer />
-            <Face />
+            {/* <Face /> */}
         </>
     )
 }
